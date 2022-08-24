@@ -1,0 +1,50 @@
+/* common */
+
+body {
+    color: #333;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+img {
+    display: block;
+}
+
+
+/* header */
+
+header {
+    background-color: royalblue;
+}
+
+header .inner {
+    width: 1000px;
+    height: 120px;
+    position: relative;
+    background-color: orange;
+    margin: 0 auto;
+}
+
+header .logo {
+    position: absolute;
+    height: 75px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    display: none;
+}
+
+header .sub-menu {}
+
+header .sub-menu ul.menu {}
+
+header .sub-menu ul.menu li a {}
+
+header .search {}
+
+header .secrch input {}
+
+header .search .material-icons {}
